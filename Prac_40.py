@@ -2,7 +2,7 @@
 
 class Person:
 
-    __name = "Shree"
+    __name = "Anonymous"
 
     def __hello(self):
         print("Hello Guys!!!!")
@@ -13,4 +13,4 @@ class Person:
 
 
 p1 = Person()
-p1.welcome()
+p1.welcome()        

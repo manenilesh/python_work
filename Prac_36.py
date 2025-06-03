@@ -1,7 +1,10 @@
-####  3.Abstraction 4.Encapsulation 
+####  1.Abstraction 2.Encapsulation 
 
 
 ### Abstraction - Hiding implementation details of a class and only showing essential features  to the user's.
+
+### Encapsulation - Wrapping data and functions into a single unit(Object).
+
 class car:
     
     def __init__(self):
